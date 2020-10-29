@@ -2165,3 +2165,24 @@ body {
 	-ms-word-break: normal;
 	word-break: normal;
  }
+
+ /*Quiz Input*/
+ 
+ #input-oracion {
+	 border-color: none;
+	 width: 35%;
+ }
+
+ /*Progress bar*/
+ #progressBar {
+    width: 20rem;
+    height: 4rem;
+    border: 0.3rem solid #2E355F;;
+    margin-top: 1.5rem;
+  }
+  
+  #progressBarFull {
+    height: 3.4rem;
+    background-color: #2E355F;;
+    width: 0%;
+  }
