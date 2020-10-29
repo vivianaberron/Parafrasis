@@ -154,6 +154,7 @@ a.white {
 	padding: 1.1875rem 2.125rem 1.1875rem 2.125rem;
 	border: 0.125rem solid #ec8611;
 	border-radius: 2rem;
+	margin: 1.1rem;
 	background-color: #ec8611;
 	color: #fff;
 	font: 700 0.875rem/0 "Open Sans", sans-serif;
@@ -163,7 +164,7 @@ a.white {
 
 .btn-solid-reg:hover {
 	background-color: transparent;
-	color: #eea34d;
+	color: #6d6c6c;
 	text-decoration: none;
 }
 
@@ -1457,7 +1458,7 @@ a:hover.back-to-top {
 .ex-header {
 	padding-top: 8rem;
 	padding-bottom: 5rem;
-	background-color: #5f4dee;
+	background-color: #6bdf75;
 	text-align: center;
 }
 
@@ -1544,7 +1545,7 @@ a:hover.back-to-top {
 /****************************************/
 .ex-2-header {
 	padding-top: 9rem;
-	background-color: #5f4dee;
+	background-color: #eea34d;
 	text-align: center;
 	min-height: 100vh;
 }
